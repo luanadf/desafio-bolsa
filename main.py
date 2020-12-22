@@ -58,7 +58,7 @@ def operacaoDeposito():
 
 # Função que realiza a operação de saque
 def operacaoSaque():
-    print(util.FRASE_)
+    print(util.FRASE_SAQUE)
     while True:
         print(util.FRASE_DIGITE_VALOR_SAQUE)
         # Testa se os valores inseridos são válidos
